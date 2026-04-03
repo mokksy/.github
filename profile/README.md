@@ -1,8 +1,10 @@
 ## Mokksy
 
-Mokksy and AI-Mocks are mock HTTP/SSE, LLM (Large Language Model), and AI services like Agent-2-Agent Protocol simulators, inspired by WireMock.
-It with supports HTTP and Server-Side Events (SSE) for response streaming.
-They are designed to build, test, and mock AI service responses for development purposes.
+**Mokksy** and **AI-Mocks** are powerful mock servers for HTTP, SSE (Server-Sent Events), and AI/LLM services, including Agent-to-Agent (A2A) protocol simulations.
+
+They make it easy to **simulate streaming responses, test integrations, and mock external AI or HTTP services**, helping you catch issues early and develop confidently.
+
+Explore full documentation, guides, and examples at [mokksy.dev](https://mokksy.dev).
 
 
 
