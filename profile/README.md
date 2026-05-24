@@ -1,20 +1,12 @@
 ## Mokksy
 
-**Mokksy** and **AI-Mocks** are powerful mock servers for HTTP, SSE (Server-Sent Events), and AI/LLM services, including Agent-to-Agent (A2A) protocol simulations.
+Mokksy builds modern integration testing tools for HTTP, streaming, SSE (Server-Sent Events), and AI/LLM APIs.
 
-They make it easy to **simulate streaming responses, test integrations, and mock external AI or HTTP services**, helping you catch issues early and develop confidently.
+### Projects
 
-Explore full documentation, guides, and examples at [mokksy.dev](https://mokksy.dev).
+- **Mokksy** — a mock HTTP server with first-class support for streaming, SSE, delays, and realistic failure simulation.
+- **AI-Mocks** — provider-specific mocking tools for OpenAI, Anthropic, Gemini, Ollama, A2A, and other AI services, built on top of Mokksy.
 
+Designed for testing real-world API behavior — from traditional REST services to modern streaming and AI-powered systems.
 
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Explore the documentation, guides, and examples at [mokksy.dev](https://mokksy.dev).
